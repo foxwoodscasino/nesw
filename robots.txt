@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://hogiaklang.github.io/news/sitemap.xml
+Sitemap: https://foxwoodscasino.github.io/nesw/sitemap.xml
